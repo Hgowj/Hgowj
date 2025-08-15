@@ -17,5 +17,5 @@ SIT Fintech student | Building practical tools | Here because I no longer want t
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hgowj&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com](www.linkedin.com/in/jing-wen-goh-2385aa25b)
+- LinkedIn: [linkedin.com/in/your-new-url](www.linkedin.com/in/jing-wen-goh-2385aa25b)
 - 🌍 Based in Singapore
