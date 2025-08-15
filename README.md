@@ -8,7 +8,7 @@ SIT Fintech student | Building practical tools | Here because I no longer want t
 - **Focus Areas**: Machine Learning, Financial Technology, Web Development
 - **Currently Learning**: Advanced ML techniques, Full-stack development
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,6 +22,3 @@ SIT Fintech student | Building practical tools | Here because I no longer want t
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/jing-wen-goh-2385aa25b](www.linkedin.com/in/jing-wen-goh-2385aa25b)
 - 🌍 Based in Singapore
-
-  ## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
